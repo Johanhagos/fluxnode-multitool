@@ -1,7 +1,7 @@
-name: Question 🤷‍♂️
+name: Joo kadena mining club 🤷‍♂️
 description: Got a question about multitoolbox, deployment, development or usage?
-title: '[QUESTION] <title>'
-labels: ['🤷‍♂️ Question']
+title: '[QUESTION] DOS'NODE
+labels: ['🤷‍♂️]
 
 body:
   # Filed 1 - Intro Text
@@ -14,8 +14,8 @@ body:
       required: false
 
   # Field 2 - The actual question
-  - type: textarea
-    id: question
+  - type: I am receiving DOS on mijn flux wallet app. There for i cant mine any flux. 
+    id: How can i get my Node miner started? 
     attributes:
       label: Question
       description: Outline your question in a clear and concise manner
@@ -29,20 +29,9 @@ body:
       label: Category
       description: What part of the application does this relate to?
       options:
-        - Option 1
-        - Option 2
+       
         - Option 3
-        - Option 4
-        - Option 5
-        - Option 6
-        - Option 7
-        - Option 8
-        - Option 9
-        - Option 10
-        - Option 11
-        - Option 12
-        - Option 13
-        - Option 14
+  
     validations:
       required: true
 
